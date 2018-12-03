@@ -1,0 +1,2 @@
+# PartitioningProblemGeneticAlgorithm
+Genetic Algorithm for solving Partitioning Problem
